@@ -1,0 +1,20 @@
+{
+    "name": "StormRider Packs",
+    "packages": [
+        {
+            "name": "Pokémon Red/Blue Key Item Randomizer",
+            "author": "StormRider",
+            "game_name": "Pokémon Red/Blue",
+            "version": "1.0.1",
+            "required_app_version": "2.3.6.9",
+            "uid": "pokemon_red_blue_key_item_stormrider",
+            "link": "https://github.com/StormRiderGaming/emotracker-pokemon-red-blue-key-item/releases/download/1.0.1/emotracker-pokemon-red-blue-key-item.zip",
+            "variants": [
+                {
+                    "name": "Key Item + Map Tracker",
+                    "flags": [ "map" ]
+                }
+            ]
+        }
+    ]
+}
