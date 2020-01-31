@@ -20,10 +20,10 @@
             "name": "Pokémon Crystal Key Item Randomizer",
             "author": "StormRider",
             "game_name": "Pokémon Crystal",
-            "version": "1.0.4",
+            "version": "1.0.6",
             "required_app_version": "2.3.6.9",
             "uid": "pokemon_crystal_key_item_stormrider",
-            "link": "https://github.com/StormRiderGaming/emotracker-pokemon-crystal-key-item/releases/download/1.0.4/emotracker-pokemon-crystal-key-item.zip",
+            "link": "https://github.com/StormRiderGaming/emotracker-pokemon-crystal-key-item/releases/download/1.0.6/emotracker-pokemon-crystal-key-item.zip",
             "variants": [
                 {
                     "name": "Key Item + Map Tracker",
